@@ -1,9 +1,10 @@
 body {
-	background-color: #b3b3b3;
+	background-image: url(http://3.bp.blogspot.com/-3UIjuTrbAI8/Uihk5uaH_lI/AAAAAAAAAuk/gcn5XlQ9kyI/s1600/Top+10+best+Simple+Awesome+Background+Images+for+Your+Website+or+Blog2.jpg);
 }
 
 img {
-	width: 20%;
+	margin-left: 30px;
+	min-width: 20%;
 	padding: 5px;
 }
 
