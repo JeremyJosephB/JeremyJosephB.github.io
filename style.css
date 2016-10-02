@@ -1,3 +1,34 @@
 body {
-	background: purple;
+	background-color: #cc99ff;
+}
+
+img {
+	width: 20%;\
+	padding: 5px;
+}
+
+table {
+	border: 5px solid #330066;
+	border-radius: 10px;
+}
+
+.rounded_rows {
+
+}
+
+#website_link:visited {
+	color: #006600;
+}
+
+#page_2_link:visited {
+	color: #cc7a00;
+}
+
+#index_link:visited {
+	color: #008080
+}
+
+footer {
+	width: 25%;
+	margin: auto;
 }
